@@ -1,0 +1,26 @@
+{
+  "name": "repo_curso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanjocurutchet/repo_curso.git"
+  },
+  "author": "Juan Jose Curutchet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanjocurutchet/repo_curso/issues"
+  },
+  "homepage": "https://github.com/juanjocurutchet/repo_curso#readme",
+  "dependencies": {
+    "gitignore": "^0.7.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.1"
+  }
+}
